@@ -1,0 +1,41 @@
+{
+    "coord": {
+        "lon": 128.25,
+        "lat": 35.25
+    },
+    "sys": {
+        "country": "KR",
+        "timezone": 32400,
+        "sunrise": 1686600714,
+        "sunset": 1686652924
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "온흐림",
+            "icon": "04d"
+        }
+    ],
+    "main": {
+        "temp": 22.75,
+        "feels_like": 23.12,
+        "temp_min": 22.75,
+        "temp_max": 22.75,
+        "pressure": 1005,
+        "sea_level": 1005,
+        "grnd_level": 999,
+        "humidity": 78
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.9,
+        "deg": 62
+    },
+    "clouds": {
+        "all": 94
+    },
+    "dt": 1686618618,
+    "id": 1902028,
+    "name": "Gyeongsangnam-do"
+}

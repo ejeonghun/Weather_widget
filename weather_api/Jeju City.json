@@ -1,0 +1,41 @@
+{
+    "coord": {
+        "lon": 126.5219,
+        "lat": 33.5097
+    },
+    "sys": {
+        "country": "KR",
+        "timezone": 32400,
+        "sunrise": 1686601411,
+        "sunset": 1686653057
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "튼구름",
+            "icon": "04d"
+        }
+    ],
+    "main": {
+        "temp": 23.26,
+        "feels_like": 23.42,
+        "temp_min": 23.26,
+        "temp_max": 23.26,
+        "pressure": 1005,
+        "sea_level": 1005,
+        "grnd_level": 1002,
+        "humidity": 68
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.48,
+        "deg": 359
+    },
+    "clouds": {
+        "all": 66
+    },
+    "dt": 1686618557,
+    "id": 1846266,
+    "name": "Jeju City"
+}

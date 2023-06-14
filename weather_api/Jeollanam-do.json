@@ -1,0 +1,41 @@
+{
+    "coord": {
+        "lon": 127,
+        "lat": 34.75
+    },
+    "sys": {
+        "country": "KR",
+        "timezone": 32400,
+        "sunrise": 1686601096,
+        "sunset": 1686653142
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "약간의 구름이 낀 하늘",
+            "icon": "02d"
+        }
+    ],
+    "main": {
+        "temp": 26.19,
+        "feels_like": 26.19,
+        "temp_min": 26.19,
+        "temp_max": 26.19,
+        "pressure": 1004,
+        "sea_level": 1004,
+        "grnd_level": 984,
+        "humidity": 40
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.83,
+        "deg": 352
+    },
+    "clouds": {
+        "all": 16
+    },
+    "dt": 1686618610,
+    "id": 1845788,
+    "name": "Jeollanam-do"
+}

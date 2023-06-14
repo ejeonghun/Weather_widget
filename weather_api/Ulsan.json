@@ -1,0 +1,41 @@
+{
+    "coord": {
+        "lon": 129.3167,
+        "lat": 35.5372
+    },
+    "sys": {
+        "country": "KR",
+        "timezone": 32400,
+        "sunrise": 1686600410,
+        "sunset": 1686652716
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "온흐림",
+            "icon": "04d"
+        }
+    ],
+    "main": {
+        "temp": 23.84,
+        "feels_like": 24.21,
+        "temp_min": 23.84,
+        "temp_max": 23.84,
+        "pressure": 1005,
+        "sea_level": 1005,
+        "grnd_level": 1003,
+        "humidity": 74
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.71,
+        "deg": 141
+    },
+    "clouds": {
+        "all": 92
+    },
+    "dt": 1686618557,
+    "id": 1833747,
+    "name": "Ulsan"
+}

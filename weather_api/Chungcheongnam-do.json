@@ -1,0 +1,41 @@
+{
+    "coord": {
+        "lon": 127,
+        "lat": 36.5
+    },
+    "sys": {
+        "country": "KR",
+        "timezone": 32400,
+        "sunrise": 1686600802,
+        "sunset": 1686653436
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "온흐림",
+            "icon": "04d"
+        }
+    ],
+    "main": {
+        "temp": 24.44,
+        "feels_like": 24.19,
+        "temp_min": 24.44,
+        "temp_max": 24.44,
+        "pressure": 1005,
+        "sea_level": 1005,
+        "grnd_level": 991,
+        "humidity": 48
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.19,
+        "deg": 211
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1686618609,
+    "id": 1845105,
+    "name": "Chungcheongnam-do"
+}

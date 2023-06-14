@@ -1,0 +1,41 @@
+{
+    "coord": {
+        "lon": 127.25,
+        "lat": 37.6
+    },
+    "sys": {
+        "country": "KR",
+        "timezone": 32400,
+        "sunrise": 1686600549,
+        "sunset": 1686653569
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "구름조금",
+            "icon": "03d"
+        }
+    ],
+    "main": {
+        "temp": 23.7,
+        "feels_like": 23.35,
+        "temp_min": 23.02,
+        "temp_max": 24.21,
+        "pressure": 1004,
+        "sea_level": 1004,
+        "grnd_level": 994,
+        "humidity": 47
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.15,
+        "deg": 226
+    },
+    "clouds": {
+        "all": 33
+    },
+    "dt": 1686618341,
+    "id": 1841610,
+    "name": "Gyeonggi-do"
+}

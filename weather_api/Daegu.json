@@ -1,0 +1,39 @@
+{
+    "coord": {
+        "lon": 128.55,
+        "lat": 35.8
+    },
+    "sys": {
+        "country": "KR",
+        "timezone": 32400,
+        "sunrise": 1686600550,
+        "sunset": 1686652945
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "튼구름",
+            "icon": "04d"
+        }
+    ],
+    "main": {
+        "temp": 22.47,
+        "feels_like": 22.68,
+        "temp_min": 22.36,
+        "temp_max": 22.47,
+        "pressure": 1005,
+        "humidity": 73
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 0.51,
+        "deg": 60
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1686618341,
+    "id": 1835327,
+    "name": "Daegu"
+}

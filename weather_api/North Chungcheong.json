@@ -1,0 +1,41 @@
+{
+    "coord": {
+        "lon": 128,
+        "lat": 36.75
+    },
+    "sys": {
+        "country": "KR",
+        "timezone": 32400,
+        "sunrise": 1686600519,
+        "sunset": 1686653239
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "실 비",
+            "icon": "10d"
+        }
+    ],
+    "main": {
+        "temp": 23.42,
+        "feels_like": 23.1,
+        "temp_min": 23.42,
+        "temp_max": 23.42,
+        "pressure": 1005,
+        "sea_level": 1005,
+        "grnd_level": 966,
+        "humidity": 49
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.09,
+        "deg": 266
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1686618609,
+    "id": 1845106,
+    "name": "North Chungcheong"
+}

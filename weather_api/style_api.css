@@ -1,0 +1,25 @@
+
+  .weather-description {
+    text-transform: capitalize;
+  }
+  .weather-icon {
+    height: 64px;
+    width: 64px;
+  }
+
+  /* 아래 미디어 쿼리를 추가합니다. */
+  @media (max-width: 768px) {
+    .weather-widget h3 {
+      font-size: 14px; /* 글씨 크기를 줄입니다. */
+    }
+  .weather-widget {
+    height: 140px;
+    weight: 75px;
+  }
+
+  @media (max-width: 480px) {
+    .weather-widget h3 {
+      font-size: 12px; /* 글씨 크기를 더 줄입니다. */
+    }
+  }
+
