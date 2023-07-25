@@ -2,6 +2,8 @@
 ### openweathermap의 API가 필요
   - https://openweathermap.org/api 에서 발급가능
 
+### Require JQuery
+
 #### 1시간마다 새로운 데이터를 받을수 있도록 리눅스의 crontab 을 사용하여 구성하여야함
   - php weather_save.php
 
