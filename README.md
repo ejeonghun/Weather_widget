@@ -1,5 +1,8 @@
 # Weather_widget
+
+### [Go Site](http://ejeonghun.github.io/weather_widget).
 ### openweathermap의 API가 필요
+
   - https://openweathermap.org/api 에서 발급가능
 
 ### Require JQuery
